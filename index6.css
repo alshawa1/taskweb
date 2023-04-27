@@ -1,0 +1,411 @@
+
+nav ul li{
+
+    display: inline-block;
+
+    text-decoration: none;
+    padding: 2px;
+margin-top: 15px;
+margin-right: 50px;
+}
+nav ul li a{
+text-decoration: none;
+color: brown;
+
+}
+nav .getapp{
+    width: 100px;
+    text-align: center;
+    height: auto;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+border-width: 8px;
+border-radius: 20px;
+}
+nav .getapp :hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+}
+
+ nav .image img{
+
+    width: 100px;
+    height: 50px;
+margin-left: 200px;
+margin-top: 10px;
+}
+nav .nav{
+    justify-content: space-around;
+
+
+}
+  /*     END NAVBAR      */   
+
+
+
+  .omar1{
+    justify-content: space-between;
+    display: flex;
+}
+  .omar1 .o1{
+
+    width: 50%;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 35px;
+}
+  .omar1 .o1 h1{
+
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+.omar1 .o1 p{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.omar1 .o1 .button1{
+width: 125px;
+    border-radius: 15px;
+    border: 2px solid black;
+    background-color: cornsilk;
+
+}
+.omar1 .o1 .button1 :hover{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aqua;
+
+    
+}
+.omar1 .o1 .button1 a{
+text-decoration: none;
+color: brown;
+font-size: larger;
+
+}
+.omar1 .o2{
+    width: 50%;
+}
+.omar1 .o2 img{
+
+    width: 400px;
+    height: 250x;
+    
+}
+
+
+/* end cartr 2*/
+
+.omar2{
+
+height: 100px;
+    display: flex;
+    justify-content: space-around;
+    
+background-color: whitesmoke;
+    }
+.omar2 img{
+margin-top: 30px;
+width: 100px;
+height: 50px;
+transition: transform .2s;
+}
+.omar2 .zoom :hover{
+    transform: scale(1.2);
+}
+
+/* end cart 3*/
+
+
+.omar3 h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+}
+.omar4{
+display: flex;
+justify-content: space-around;
+
+}
+.omar4 .omarr4 img{
+    width: 95%;
+    height: 250px;
+    margin-left: 60px;
+}
+.omar4 .omarr5{
+margin-top: 20px;
+}
+
+.omar4 .omarr5 button{
+    width: 150px;
+    background-color: rgb(73, 74, 68);
+border-radius: 15px;
+border: 2px solid rgb(69, 44, 44);
+
+}
+.omar4 .omarr5 button a{
+
+    color: brown;
+    text-decoration: none;
+    font: family 2px;
+    font-size: large;
+}
+ .omarr5 .button2 :hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 1s;
+    color: aqua;
+}
+
+/* end cart 4*/
+
+.omar5 h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+}
+
+.omar6 {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.omar6 .omarr6 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.omar6 .omarr6 li{
+    list-style:circle;
+}
+
+.omar6 .omarr7 p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.omar6 .omarr7 .button3{
+    background-color: rgb(73, 74, 68) ;
+    width: 115px;
+
+}
+.omar6 .omarr7 .button3 a{
+    text-decoration: none;
+    color: brown;
+}
+
+.omar6 .omarr7 .button3 :hover{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    transition: .2s;
+    
+}
+
+/*end cart 5 */
+
+.omar7{
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-small;
+}
+.omar77{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.omar77 .omarr77 h2{
+    text-align: center;
+    background-color: rgb(127, 123, 120);
+    width: 350px;
+}
+.omar77 .omarr77 {
+    width: 27%;
+    margin: 20px;
+  }
+.omar77 .omarr77 img {
+width: 85%;
+}
+
+
+/*  ناقص انيميشن   */
+
+
+
+/* end cart 6  */
+ 
+.omar8 h1{
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+
+
+.omar8  p  {
+    text-align: center;
+}
+
+.omarr8{
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.omarr9 img{
+    width: 360px;
+    height: 250px;
+}
+.omarr10 input{
+
+border: 2px solid rgb(152, 24, 24);
+
+}
+.omarr10 .button4{
+
+    color: aqua;
+    background-color: rgb(71, 44, 7);
+}
+
+/*end cart 7  */
+
+.footer{
+
+display: flex;
+justify-content: space-around;
+
+background-color: gray;
+}
+ .footer p{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+@media(max-width:650px){
+
+body{
+    background-color: aquamarine;
+}
+
+.nav ul li {
+    display: none;
+}
+
+.nav .image img{
+    margin-left: 2px;
+
+}
+.omar1{
+    width: 400px;
+    
+}
+.omar1 .o1{
+    margin-left: 50px;
+}
+.omar1 .o2{
+    display: none;
+}
+
+.omar1 .o1 h1{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:  rgb(25, 117, 117);
+
+}
+.omar1 .o1 p{
+    font-size: large;
+
+}
+.omar1 .o1 .button1{
+border-radius: 30px;
+background-color: cadetblue;
+}
+.omar2{
+    display: block;
+    width: auto;
+    height: auto;
+background-color: white;
+margin-top: 15px;
+}
+.omar2 .zoom img{
+
+    width: 70%;
+    height: auto;
+    display: block;    
+    margin-left: 55px;
+    padding-top: 20px;
+}
+.omar3 h1{
+    color: rgb(25, 117, 117);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.omar4{
+    display: block;
+}
+.omar4 .omarr4 img{
+    width: 70%;
+}
+.omar4 .omarr4 p{
+    font-size: small;
+}
+.omar6{
+ margin-left: 5px;
+    display: block;
+}
+.omar6 .omarr7 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.omarr5 h5{
+    text-align: center;
+}
+.omar5 h1{
+
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(25, 117, 117);
+}
+
+.omarr5 .button2{
+margin-left: 105px;
+
+}
+.omarr7 .button3{
+
+    margin-left: 105px;
+    margin-top: 5px;
+}
+
+.omar7 h1{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(25, 117, 117);
+
+}
+.omar77{
+    display: block;
+}
+
+.omar77 .omarr77 img{
+    width: auto;
+    height: 300px;
+margin-left: 27px;
+}
+
+.omarr8{
+    display: block;
+    margin-left: 15px;
+}
+.omarr10{
+margin-top: 20px;
+    margin-left: 70px;
+}
+.omarr10 .button4{
+    margin-left: 45px;
+}
+.footer{
+    display: block;
+    background-color: aliceblue;
+
+}
+
+}
